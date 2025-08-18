@@ -14,8 +14,7 @@ It demonstrates **server-side rendering, CRUD operations, and responsive design*
 ---
 
 ## ✨ Features
-- 📄 Server-side rendering using EJS templates  
-- ➕ Add, edit, delete data (CRUD operations)  
+- 📄 Server-side rendering using EJS templates    
 - 📱 Responsive design for all devices  
 - 🎨 Dynamic layouts with ejs-mate  
 - 🗄️ Data stored and managed using MongoDB  
