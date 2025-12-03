@@ -1,0 +1,7 @@
+<% layout('layouts/boilerplate') %>
+
+<div class="row">
+    <div class="alert alert-danger" role="alert">
+        <p><%= (typeof err !== 'undefined' && err && err.message) ? err.message : (typeof message !== 'undefined' ? message : 'An error occurred') %></p>
+    </div>
+</div>
